@@ -1,5 +1,7 @@
 # Product Innovation Roadmap
 
+![google_maps](https://github.com/JaiBhatia19/London-Bike-Rides-Dashboard/assets/143343337/69da7bb2-c14a-46e8-9d2a-09a15ed924c2)
+
 ## Project Overview
 A comprehensive product innovation roadmap for adding a new parking feature to the Google Maps application. This roadmap was created as part of a product management class project.
 
