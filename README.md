@@ -7,7 +7,7 @@ A comprehensive product innovation roadmap for adding a new parking feature to t
 
 ## Roadmap
 The detailed roadmap can be found here:
-- [product_innovation_roadmap.pdf](Product Innovation Roadmap.pdf)
+- [product_innovation_roadmap.pdf](Product_Innovation_Roadmap.pdf)
 
 ### Proposed Innovation
 - **New Feature:** An additional parking feature in the Google Maps navigation home screen.
